@@ -1,6 +1,6 @@
 // ============================================================================
 // AUTO-GENERATED ARVANODE CONFIGURATION HEADER
-// Generated: 2026-10-22T19:53:11.884200+00:00
+// Generated: 2026-10-24T10:54:59.932479+00:00
 // Profile: ARVANODE-002 (ArvaNode Field 02)
 // DO NOT EDIT DIRECTLY - MANAGED BY node_provisioner.py
 // ============================================================================

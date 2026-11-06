@@ -46,4 +46,11 @@
 #define PIN_LED_PAIRING 25
 #define PIN_LED_ACTIVATE 26
 
+// Modbus RS485 NPK Sensor Pinout & Configuration
+#define PIN_RS485_RX 16
+#define PIN_RS485_TX 17
+#define PIN_RS485_DE_RE 4
+#define NPK_SENSOR_BAUD 9600
+#define NPK_SENSOR_ENABLED 1
+
 #endif // ARVA_NODE_CONFIG_H
